@@ -1,0 +1,557 @@
+Latitude;Longitude;Direccion;Barrio;Comuna;Estrato;Localidad;Fecha de atención ;Tipo de Visita;Tipo de lugar;Nombre Científico;Clasificación;Cantidad de Especímenes
+3.4238623;-76.5535437;CLL 1B # 42A-27;Siloé - Sector La Nave;20;1;6;27/01/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.3884339;-76.5289492;CRA 79 #15A-10;Prados del Limonar;17;4;5;3/02/2021;Presencia;Entidad privada;Milvago chimachima;AV;2
+3.3473277;-76.5535438;Ecoparque El Embudo;Parcelaciones Pance;22;6;5;27/01/2021;Liberación;Entes públicos;Didelphis marsupialis;MA;2
+3.3473277;-76.5535438;Ecoparque El Embudo;Parcelaciones Pance;22;6;5;27/01/2021;Liberación;Entes públicos;Iguana iguana;RE;1
+3.3332186;-76.5368136;Ecoparque Las Garzas;Parcelaciones Pance;22;6;5;2/02/2021;Liberación;Entes públicos;Didelphis marsupialis;MA;4
+3.3332186;-76.5368136;Ecoparque Las Garzas;Parcelaciones Pance;22;6;5;2/02/2021;Liberación;Entes públicos;Iguana iguana;RE;2
+3.3332186;-76.5368136;Ecoparque Las Garzas;Parcelaciones Pance;22;6;5;2/02/2021;Liberación;Entes públicos;Marmosa;#N/D;1
+3.3788604;-76.5165343;CALLE 48 #86-109;Caney;17;4;5;08/02/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;7
+3.445861;-76.5415847;CRA 2 OESTE #12-45;Santa Teresita;2;6;6;11/02/2021;Presencia;Entes públicos;N/A;N/A;
+3.3332186;-76.5368136;Ecoparque Las Garzas;Parcelaciones Pance;22;6;5;11/02/2021;Liberación;Entes públicos;Didelphis marsupialis;MA;2
+3.3332186;-76.5368136;Ecoparque Las Garzas;Parcelaciones Pance;22;6;5;11/02/2021;Liberación;Entes públicos;Dasypus novemcinctus;MA;1
+3.4685697;-76.4872412;CALLE 69 # 4C ESQUINA;Santa Bárbara;5;3;1;09/02/2021;Control de poblaciones;Entidad privada;Apis mellifera;#N/D;1
+3.4005084;-76.5430545;CRA 64A #9-139;El Limonar;17;3;5;15/02/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3769767;-76.5427572;CRA/100 CON CALLE 5;Urbanización Ciudad Jardín;22;6;5;11/02/2021;Rescate;Entidad privada;Dasyprocta punctata;MA;1
+3.4307345;-76.5621919;CRA/36 OESTE #11A*45;Tejares - Cristales;19;6;6;18/02/2021;Presencia;Comunidad;Pantherophis guttatus;RE;1
+3.476329;-76.518784;AV3A NORTE #40N123;VIPASA;2;4;1;19/02/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.4869502;-76.4845053;CRA 1A5A BIS #76-52;Urbanización Calimio;6;2;2;19/02/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;3
+3.3865202;-76.5502035;CALLE 2B #78A94;Nápoles;18;3;5;23/02/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;1
+3.3835789;-76.525375;Cl. 25 #84-6, Cali, Valle del Cauca, Colombia;El Ingenio;17;5;5;24/02/2021;Rescate;Entidad privada;Pionus menstruus;AV;1
+3.4690545;-76.4827167;CALLE 72A #4-108;Jorge Eliécer Gaitán - Tejares de Salomia;6;2;2;24/02/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;1
+3.4271912;-76.5327713;CALLE 10#31-159;Urbanización Colseguros;19;4;6;26/02/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4692089;-76.482484;CALLE72A#4-108;Jorge Eliécer Gaitán - Tejares de Salomia;6;2;2;25/02/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.4881185;-76.488081;CALLE 72C#1A1-87;San Luis II;6;2;2;02/03/2021;Presencia;Comunidad;Iguana iguana;RE;6
+3.4881185;-76.488081;CALLE 72C#1A1-87;San Luis II;6;2;2;02/03/2021;Presencia;Comunidad;Chelonoidis;#N/D;1
+3.4493925;-76.5433424;CRA3A OESTE #3-49;El Peñón;3;5;1;09/03/2021;Rescate;Establecimiento comercial;Didelphis marsupialis;MA;1
+3.3675624;-76.5072651;CALLE 60 CRA 98 E;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;06/03/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.3921818;-76.5579904;CRA70 A#1ABIS-44;Mario Correa Rengifo;18;2;5;03/10/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4245795;-76.5475304;CRA 39#41-05;SANTA ISABEL;19;4;1;03/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4264711;-76.5509486;CRA38C#1-36;SANTA ISABEL;19;4;1;03/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4796128;-76.5263449;CALLE40NORTE#6AN90;LA CAMPIÑA;2;4;1;22/02/2021;Rescate;Entidad privada;Tamandua;#N/D;1
+3.4254005;-76.5155155;Cl. 29 #31-26, Cali, Valle del Cauca, Colombia;LA FORTALEZA;11;3;3;03/10/2021;Rescate;Comunidad;Gallinula chloropus ;#N/D;1
+3.4489521;-76.543633;AV4 OESTE #49;El Peñón;3;5;1;16/03/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.3911671;-76.5176618;CRA 70 #46-07;CIUDAD 2000;16;4;5;16/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.392236;-76.523655; CALLE29#75-32;CIUDAD 2000;16;4;5;17/03/2021;Rescate;Comunidad;;#N/D;1
+3.3670067;-76.5080272;CALLE60 ENTRE 98F ;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;17/03/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;5
+3.3925755;-76.5414344;CALLE 10 A#72-35;Ciudad Capri;17;5;5;17/03/2021;Rescate;Entidad privada;Rupornis magnitostris;#N/D;1
+3.4530562;-76.5569298;Av. 4 Nte. #16-17, Cali, Valle del Cauca, Colombia;TERRON COLORADO;1;2;6;17/03/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+3.389453;-76.5219559;CALLE32#74-31;CANEY;17;4;5;24/03/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+3.4149678;-76.5576259;CRA 6 OESTE #3-69;Cuarto de Legua - Guadalupe;19;5;5;24/03/2021;Rescate;Comunidad;Dasypodidae;#N/D;1
+3.4489641;-76.543018;CRA 39 OESTE #3-49;El Peñón;3;5;1;21/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.429531;-76.542857;;San Fernando Nuevo;19;4;6;25/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3521871;-76.5387804;CR 11G #13-08;Parcelaciones Pance;22;6;5;24/03/2021;Presencia;Comunidad;Didelphis marsupialis;MA;1
+3.374799;-76.5416039;CR 100 # 5-69;Meléndez;18;3;5;25/03/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.4823798;-76.5223892;CALL 45N #4 AN 102;La Flora;2;5;1;20/03/2021;Presencia;Comunidad;Didelphis marsupialis;MA;1
+3.4359504;-76.5439697;CRA 27 #2A41;San Fernando Viejo;19;4;1;31/03/2021;Entrega;Comunidad;Podocnemis;#N/D;1
+3.4118472;-76.4951782;Cl. 52 ##32a82, Cali, Valle del Cauca, Colombia;Los Comuneros I;15;2;4;31/03/2021;Entrega;Comunidad;Chelonoidis;#N/D;1
+3.4441509;-76.4877161;CALL70#17*55;Ricardo Balcázar;13;2;4;31/03/2021;Decomiso;Comunidad;Boa constrictor;RE;1
+3.3562103;-76.5192275;CALLE43#111-50;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;06/04/2021;Rescate;Comunidad;Tangara vitriolina;#N/D;1
+3.4561629;-76.5629226;AV15OESTE #9-46;Aguacatal;1;1;6;06/04/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.4700054;-76.4821614;CALLE 72A #4-108;Jorge Eliécer Gaitán - Tejares de Salomia;6;2;2;06/04/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.3760749;-76.5056322;CALLE60 CRA93F;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;06/04/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4390379;-76.5433158;CALLE2OESTE#24B08;Miraflores;19;4;1;13/04/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4528761;-76.5146249;CALLE13#8N27;La Floresta;8;3;3;04/08/2021;Rescate;Comunidad;Trochilidae;#N/D;1
+3.3646038;-76.5358296;CALLE 14CON CRA105;Urbanización Ciudad Jardín;22;6;5;04/09/2021;Rescate;Comunidad;Trachemys callirostris;RE;1
+3.4070636;-76.5118865;CRA43#43-49;República de Israel;16;2;4;04/08/2021;Rescate;Comunidad;Rhinoclemmys melanosterna;RE;1
+3.3584919;-76.5171475;CALLE46#109-39;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;05/04/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+3.4063788;-76.548169;CRA60#4-49;Cuarto de Legua - Guadalupe;19;5;5;21/04/2021;Rescate;Entidad privada;Rupornis magnitostris;#N/D;1
+3.3745234;-76.5052997;Calle 61 ### 93-48, Cali, Valle del Cauca, Colombia;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;16/2/2021;Rescate;Entes públicos;Decápodo;#N/D;1
+3.4921286;-76.5218455;Cl. 64 Nte. #5b146, Cali, Valle del Cauca, Colombia;La Flora;2;5;1;16/2/2021;Rescate;Establecimiento comercial;Didelphis marsupialis;MA;1
+3.4637606;-76.5119377;Cl 2 # 37-50;Las Delicias;4;3;2;8/6/2021;Rescate;Entidad privada;Picidae sp.;#N/D;1
+3.4711592;-76.5154558;Kr 6 #36;Chipichape;2;5;1;16/2/2021;Rescate;Entes públicos;Echinoprocta rufescens;#N/D;1
+3.4718454;-76.489614;Kr 2 N 65-21;La Rivera I;6;2;2;3/2/2021;Rescate;Entes públicos;Gampsonix swainsonii;#N/D;1
+3.4578849;-76.4831072;Cl 70 con Kr 71;Alfonso Lopez I;7;3;2;2/2/2021;Rescate;Entidad privada;Atractus crassicaudatus;#N/D;1
+3.4355212;-76.5002942;Cl. 44, Cali, Valle del Cauca, Colombia;La Nueva Floresta;12;3;3;2/2/2021;Rescate;Entes públicos;Atractus crassicaudatus;#N/D;1
+3.4048929;-76.5524883;Cl 2 con Cl 62;Cuarto de Legua - Guadalupe;19;5;5;2/2/2021;Entrega;Entes públicos;Didelphis marsupialis;MA;1
+3.3366395;-76.5484987;Ac. 44 Sur;Parcelaciones Pance;22;6;5;2/2/2021;Entrega;Establecimiento comercial;Didelphis marsupialis;MA;1
+3.3350748;-76.5246975;Kr 127 Cl 26;Parcelaciones Pance;22;6;5;13/2/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+3.4867744;-76.5189648;Cl. 44 ##52-24 ;La Flora;2;5;1;13/2/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.3979969;-76.5452762;Cl 6 # 66-32;El Gran Limonar;17;5;5;13/2/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4393307;-76.5014514;Cl. 44 # 24 B 00;La Nueva Floresta;12;3;3;13/2/2021;Rescate;Comunidad;Trachemys callirostris;RE;1
+3.3829092;-76.5780781;Km 7 la buitrera;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;12/2/2021;Rescate;Entes públicos;Cerdocyon thous;MA;1
+3.4119972;-76.4940963;Kr 32 A 52-25;Los Comuneros I;15;2;4;8/6/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4479636;-76.5561835;Kr 2 OESTE CL 14;Santa Teresita;2;6;6;1/6/2021;ReubicaciónCAVF;Entes públicos;Leontocebus fuscicollis;#N/D;1
+3.452997;-76.559999;Av. 5 Oe., Cali, Valle del Cauca, Colombia;Aguacatal;1;1;6;12/2/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4408506;-76.5387945;Kr 22 # 3A-08;Los Libertadores;3;3;1;12/2/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4600591;-76.5281128;Av. de las Americas #20N-85, Cali, Valle del Cauca, Colombia;Versalles;2;5;1;12/2/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4185361;-76.4966718;Kr 29 # 44-18;Los Comuneros I;15;2;4;12/2/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.418522;-76.4976604;Cl 44 # 24b 00;Los Comuneros I;15;2;4;12/2/2021;Rescate;Comunidad;Porphyrio martinica;AV;1
+3.4514461;-76.5239943;Cl 8 # 20-79;San Nicolás;3;2;1;11/1/2021;Entrega;Comunidad;Podocnemis;#N/D;1
+3.4406588;-76.5387954;Cra. 22 #3A-08;Los Libertadores;3;3;1;11/1/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4426089;-76.5456982;Cl 6 oeste # 18-36;El Nacional;3;3;1;11/1/2021;Rescate;Comunidad;Rhinoclemmys melanosterna;RE;1
+3.4194979;-76.5205672;Cra. 39 #25-33, Cali, Valle del Cauca, Colombia;La Independencia;11;3;3;9/6/2021;Rescate;Establecimiento comercial;Todirostrum nigriceps;AV;1
+3.4932336;-76.4902816;Dg. 7 Nte., Cali, Valle del Cauca, Colombia;Paso del Comercio;6;2;2;9/6/2021;Entrega;Comunidad;Boa constrictor;RE;1
+3.4002005;-76.5528798;Cra. 64a, Cali, Valle del Cauca, Colombia;La Cascada;19;5;5;10/2/2021;Rescate;Comunidad;Nyctibius griseus;AV;1
+3.4579794;-76.464133;Cra. 35 #96c-15 cali;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;10/3/2021;Entrega;Comunidad;Iguana iguana;RE;1
+3.3583796;-76.5199481;Cl 43#109-78;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;9/2/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;2
+3.3446169;-76.5181726;Cl 44 #24B-00;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;9/2/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4146476;-76.5191855;Cra. 42 #26b-60, Cali, Valle del Cauca, Colombia;La Independencia;11;3;3;9/2/2021;Entrega;Comunidad;Pionus menstruus;AV;1
+3.4328181;-76.4899744;Cra 26C & Dg. 72e, Cali, Valle del Cauca, Colombia;Ricardo Balcázar;13;2;4;9/2/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4219592;-76.4977203;Cl 42#28D-1;El Diamante;13;2;4;9/2/2021;Rescate;Entes públicos;Trachemys callirostris;RE;1
+3.425253;-76.4999819;Cl 72 #28c-232 cali;Calipso;13;3;4;8/2/2021;Entrega;Comunidad;Podocnemis;#N/D;1
+3.3778455;-76.554671;Cra 93A#3-34;Sector Alto Jordán;18;1;5;8/2/2021;Entrega;Comunidad;saguinus fuscicollis;#N/D;1
+3.4979774;-76.4759992;Av. 2 Nte. #36, Cali, Valle del Cauca, Colombia;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;8/2/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.379664;-76.5092592;Cl 55#97-250;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;7/2/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+3.4531808;-76.5214669;Cra. 7a #22a-34, Cali, Valle del Cauca, Colombia;Terron Colorado;1;2;6;9/6/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3820203;-76.5704075;Km 6 vía buitrera;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;6/2/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.3660403;-76.511437;Cl55#99-250;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;6/2/2021;Rescate;Entes públicos;Dasypus novemcinctus;MA;1
+3.3969099;-76.5079948;Cra. 47 #54c68, Cali, Valle del Cauca, Colombia;Ciudad Córdoba;15;3;4;6/2/2021;Rescate;Comunidad;Amazona amazónica;#N/D;1
+3.4479261;-76.5566052;Cra. 2a Oe., Cali, Valle del Cauca, Colombia;Santa Teresita;2;6;6;5/2/2021;Rescate;Entidad privada;Nyctibius griseus;AV;1
+3.4385892;-76.5012478;Cl44#24b-00;Asturias;12;2;3;5/1/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4499796;-76.4799301;;Puerto Mallarino;7;2;4;5/1/2021;Rescate;Comunidad;Molossus molossus;MA;1
+3.4320598;-76.5185509;Cl26A#25-28;Aguablanca;11;3;3;5/2/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+3.3332186;-76.5368136;Eco Parque Lago De Las Garzas, Carrera 127 Con Calle 16, Cali, Valle del Cauca, Colombia;Parcelaciones Pance;22;6;5;11/6/2021;Control de poblaciones;Entes públicos;Apis mellifera scutellata;#N/D;
+3.3907718;-76.5525274;Cl. 1c ##76a-25, Cali, Valle del Cauca, Colombia;Los Farallones;18;3;5;11/6/2021;Presencia;Comunidad;Apis mellifera;#N/D;1
+3.464594;-76.5038587;Carrera 3 # 46b - 17;Salomia;4;3;2;11/6/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.3648768;-76.5374038;N/A;Urbanización Ciudad Jardín;22;6;5;25/1/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4038765;-76.5308686;Cl. 14 #54-99, Cali, Valle del Cauca, Colombia;Primero de Mayo;17;4;5;8/2/2021;Rescate;Comunidad;Chelonoidis carbonaria;RE;1
+3.4432198;-76.5467915;Cra. 22a & Cl. 7a Oe., Cali, Valle del Cauca, Colombia;El Nacional;3;3;1;15/06/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4488689;-76.5434364;Carrera 3B Oeste # 3 - 50;El Peñón;3;5;1;16/06/2021;Presencia;Comunidad;N/A;N/A;0
+3.3613728;-76.5338266;Calle 15a #106-156;Urbanización Ciudad Jardín;22;6;5;16/06/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.3671282;-76.5078711;Calle 60 entre carrera 98f y 98 e;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;16/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3634031;-76.5376799;Zanjón del Burro, Cra. 108 #12292, Cali, Valle del Cauca, Colombia;Urbanización Ciudad Jardín;22;6;5;16/06/2021;Liberación;Entes públicos;Didelphis marsupialis;MA;1
+3.3635069;-76.542666;Carrera 103 # 6-85;Urbanización Ciudad Jardín;22;6;5;16/06/2021;Permiso;Comunidad;;#N/D;
+3.4712479;-76.5153786;Av. 2a Nte. ##36A-40, Cali, Valle del Cauca;Prados del Norte;2;5;1;25/01/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.3999317;-76.5562328;Cra. 65a #1-50, Cali, Valle del Cauca, Colombia;Meléndez;18;3;5;26/01/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.4712479;-76.5153786;Cl9b # 38-17;Santa Isabel;19;4;1;28/01/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3652474;-76.5284035;Cra. 101 #18-14, Cali, Valle del Cauca, Colombia;Urbanización Ciudad Jardín;22;6;5;17/06/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;
+3.3651991;-76.5284004;Carrera 101 # 18-14;Urbanización Ciudad Jardín;22;6;5;18/06/2021;Presencia;;Didelphis marsupialis;MA;
+3.4702283;-76.4877049;Cra 2f # 68-32;Los Guayacanes;5;3;2;18/06/2021;Rescate;;Didelphis marsupialis;MA;1
+3.4813447;-76.527705;Calle 42 N # 6 N 30;La Campiña;2;4;1;22/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3644655;-76.540543;Cra 105 # 11-56;Urbanización Ciudad Jardín;22;6;5;22/06/2021;Rescate;Comunidad;Dasypus novemcinctus;MA;1
+3.4387107;-76.4683506;Calle 84 # 20a-39;Valle Grande;21;2;4;22/06/2021;Rescate;Comunidad;Artibeus lituratus;MA;1
+3.4390221;-76.5438428;Calle 3 Oeste # 24f-01;San Fernando Viejo;19;4;1;23/06/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4090855;-76.5554252;Calle 1 # 56-109;Cuarto de Legua - Guadalupe;19;5;5;23/06/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3778879;-76.5424738;Calle 5 # 89-35;Mayapan - Las Vegas;17;5;5;23/06/2021;Presencia;Comunidad;Milvago chimachima;AV;
+3.3785912;-76.5419325;Cra. 88, Cali, Valle del Cauca, Colombia;Mayapan - Las Vegas;17;5;5;23/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.420918;-76.5421232;Calle 6 # 40-67;Nueva Tequendama;19;5;6;23/06/2021;Rescate;Comunidad;Falco sparverius;AV;1
+3.42221;-76.5128905;CRA33C#31A-11;Industrial - Los Mangos;8;2;2;05/02/2021;Rescate;Entes públicos;Coragyps atratus;AV;1
+3.4856735;-76.5053746;CL 61A # 2AN-34;Flora Industrial;4;3;2;05/02/2021;Entrega;Comunidad;Podocnemys unifilis;#N/D;3
+3.4706982;-76.5100671;CR 1 # 16-60;El Hoyo;3;3;1;05/02/2021;Entrega;Comunidad;Amazona amazónica;#N/D;1
+3.3608619;-76.5311586;Cl. 18 #106a-16, Cali, Valle del Cauca, Colombia;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;05/02/2021;Rescate;Entes públicos;Bubulcus ibis;AV;1
+3.398575;-76.3860455;CL 15A # 13A-41;San Pascual;3;1;1;05/02/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.3656445;-76.530938;Cl. 16 & Cra. 102, Cali, Valle del Cauca, Colombia;Urbanización Ciudad Jardín;22;6;5;05/02/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4113346;-76.4238183;KM 26 CALI CANDELARIA;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;02/02/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.4538219;-76.5318204;CRA1#13A-58;El Hoyo;3;3;1;04/02/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.4403191;-76.4809231;3.44032, -76.48097;Alirio Mora Beltrán;14;2;4;04/02/2021;Rescate;Entes públicos;Cryptochelys leucostoma;#N/D;1
+3.4069942;-76.5385153;CL11#55A-19;Camino Real - Joaquin Borrero Sinisterra;19;5;5;20/01/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4887859;-76.5240085;Cl. 52 Nte. & Av. 6 Nte., Cali, Valle del Cauca, Colombia;La Flora;2;5;1;20/01/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4639185;-76.4876097;CR69#7-42;Fepicol;7;3;2;20/01/2021;Rescate;Comunidad;Didelphis marsupialis;MA;4
+3.3651329;-76.5276773;CL19#100-59;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;20/01/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4386675;-76.5341675;CL44#20B-00;Alameda;9;3;6;19/01/2021;Rescate;Entes públicos;Dipsas santijoanis;#N/D;1
+3.4288341;-76.5244163;CL17 #28-05;Santa Elena;10;3;6;19/01/2021;Rescate;Comunidad;Rupornis magnitostris;#N/D;1
+3.3837639;-76.5169197;CRA83B2#48A-65;Caney;17;4;5;19/01/2021;Entrega;Comunidad;Kinosternon leucostomum;RE;1
+3.3991056;-76.51376;Cra. 49a & Cl. 48, Cali, Valle del Cauca, Colombia;Mariano Ramos;16;2;4;18/01/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+;;Cra. 8,;Las Ceibas;7;3;2;18/01/2021;Rescate;Entes públicos;MYTUBIUS GRISEUS;#N/D;1
+;;CL17 OESTE #2-43;Aguacatal;1;1;6;15/02/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.4144837;-76.5212698;Cra. 42 #25-9, Cali, Valle del Cauca, Colombia;La Independencia;11;3;3;18/01/2021;Rescate;Comunidad;Didelphis marsupialis;MA;5
+3.4418546;-76.5285025;CRA 16 #13-58;Guayaquil;9;3;6;18/01/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+;;Cra. 93,;Meléndez;18;3;5;17/01/2021;Rescate;Entes públicos;Boa constrictor;RE;1
+;;Cl. 44 ##52-24 este, Bogotá, Colombia;La Nueva Floresta;12;3;3;15/02/2021;Rescate;Entes públicos;Megascops choliba;AV;1
+3.4221342;-76.4664681;Cra. 26g #121-21, Cali, Valle del Cauca, Colombia;Desepaz Invicali;21;1;4;21/01/2021;Rescate;Entes públicos;Rhinoclemmys melanosterna;RE;1
+3.4224155;-76.5382498;CL9#83C-63;Departamental;10;4;6;14/02/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4376353;-76.4751147;CL80A CON 25;Valle Grande;21;2;4;14/02/2021;Rescate;Entes públicos;Milvago chimachima;AV;1
+;;CL33B#1-24;Sultana - Berlín - San Francisco;4;2;2;30/01/2021;Entrega;Comunidad;Trachemys callirostris;RE;1
+3.4159331;-76.5430583;CL7#46-23;Urbanización Tequendama;19;5;6;12/02/2021;Rescate;Entes públicos;Porphyrio martinica;AV;1
+3.4780172;-76.5170429;AV3 #44N-59;Prados del Norte;2;5;1;24/06/2021;Rescate;Comunidad;Trachemys callirostris;RE;1
+;;Cra. 42 #1a-75, Cali, Valle del Cauca, Colombia;Sector Alto Jordán;18;1;5;15/02/2021;Rescate;Comunidad;Rhinella marina;AN;1
+3.4069122;-76.5027249;Cra. 41b #50-2, Cali, Valle del Cauca, Colombia;El Vallado;15;2;4;15/02/2021;Rescate;Comunidad;Chlorophanes spiza;AV;1
+3.4679972;-76.5263073;AV 4 #25-15;Santa Mónica;2;5;1;15/02/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+;;CL44#24B-00;Ciudad 2000;16;4;5;15/02/2021;Rescate;Entes públicos;Sciurus granatensis;MA;1
+3.4000585;-76.5445558;Cra. 64a #9-139, Cali, Valle del Cauca, Colombia;El Limonar;17;3;5;15/02/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4617397;-76.5345537;AV 10 NORTE # 16-N-21;Granada;2;4;1;04/02/2021;Control de poblaciones;Entidad privada;Columbia livia;#N/D;
+;;CL 70 # 177-55;Belalcázar;9;3;6;31/03/2021;Decomiso;Comunidad;Boa constrictor;RE;1
+;;CL 60#98E;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;18/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3934656;-76.5536653;CL 1C #70-63;Nápoles;18;3;5;18/03/2021;Rescate;Comunidad;Rupornis magnitostris;#N/D;1
+3.443282;-76.5010605;CALLE3N#3-44;El Peñón;3;5;1;19/03/2021;Rescate;Establecimiento comercial;Didelphis marsupialis;MA;1
+3.4639668;-76.5345815;AV 10 NORTE # 22BISN-145;Santa Mónica;2;5;1;23/03/2021;Rescate;Comunidad;Iguana iguana;RE;30
+3.4093786;-76.5516129;Cra. 57 #2A-125, Cali, Valle del Cauca, Colombia;Cuarto de Legua - Guadalupe;19;5;5;27/03/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3834486;-76.5300717;CR85B # 13B70;El Ingenio;17;5;5;29/03/2021;Rescate;Entes públicos;Pitangus sulphuratus;AV;1
+3.4900522;-76.5211985;Cl. 58 Nte. #4b45, Cali, Valle del Cauca, Colombia;La Flora;2;5;1;25/06/2021;Rescate;Establecimiento comercial;N/A;N/A;2
+3.4822366;-76.5210261;Av 3i # 45N-88;Vipasa;2;4;1;25/06/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.417752;-76.543171;Cra. 44 #6a-54, Cali, Valle del Cauca, Colombia;Nueva Tequendama;19;5;6;13/04/2021;Entrega;Comunidad;Erinaceinae;#N/D;1
+3.3671467;-76.5404905;CR 103 # 12-106;Urbanización Ciudad Jardín;22;6;5;14/04/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.3663812;-76.5317585;CR102 # 15a-29;Urbanización Ciudad Jardín;22;6;5;19/04/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.3820915;-76.5142602;Cra. 85 #15-105, Cali, Valle del Cauca, Colombia;Caney;17;4;5;12/04/2021;Operativo;Comunidad;;#N/D;
+;;Cra. 27 #92-25, Cali, Valle del Cauca, Colombia;José Manuel Marroquín II;14;2;4;19/04/2021;Operativo;Establecimiento comercial;N/A;N/A;
+3.4729573;-76.5140593;Cl. 36a Nte. & Av. 2 Nte., Cali, Valle del Cauca, Colombia;Prados del Norte;2;5;1;19/04/2021;Operativo;Establecimiento comercial;N/A;N/A;
+3.4481864;-76.4981154;Cra. 12 #53-51, Cali, Valle del Cauca, Colombia;Villa Colombia;8;3;3;19/04/2021;Operativo;Establecimiento comercial;N/A;N/A;
+3.4729573;-76.5140593;Cl. 36a Nte. & Av. 2 Nte., Cali, Valle del Cauca, Colombia;Prados del Norte;2;5;1;19/04/2021;Operativo;Establecimiento comercial;N/A;N/A;
+3.4342205;-76.5380015;Cra. 26 #6a-31, Cali, Valle del Cauca, Colombia;El Cedro;19;4;6;21/04/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+;;Cali, Valle del Cauca, Colombia;Urbanización Tequendama;19;5;6;25/05/2021;Presencia;Comunidad;Milvago chimachima;AV;0
+3.4729573;-76.5140593;Cl. 36a Nte. & Av. 2 Nte., Cali, Valle del Cauca, Colombia;Prados del Norte;2;5;1;25/06/2021;Presencia;Comunidad;Iguana iguana;RE;
+3.4451;-76.5400863;Cra. 12a #2-31, Cali, Valle del Cauca, Colombia;San Antonio;3;3;1;02/06/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.407116;-76.5514418;CRA 60 # 2A-91 CALI;Cuarto de Legua - Guadalupe;19;5;5;04/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+;;Cali, Valle del Cauca, Colombia;José Manuel Marroquín I;14;2;4;25/04/2021;Rescate;Comunidad;Nyctibius griseus;AV;1
+;;CL 6 NORTE #9AN-10 CALI;Granada;2;4;1;25/06/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4046633;-76.543494;Cl. 9 #61a-1, Cali, Valle del Cauca, Colombia;Camino Real - Los Fundadores;19;5;5;10/05/2021;Rescate;Comunidad;Bothrops asper;RE;1
+;;Cra. 28 #95-52, Cali, Valle del Cauca, Colombia;Alfonso Bonilla Aragón;14;1;4;21/05/2021;Rescate;Comunidad;Lasiurus blossevillii;#N/D;1
+3.446652;-76.4866058;Cl. 71 #12b-10, Cali, Palmira, Valle del Cauca, Colombia;Siete de Agosto;7;3;4;22/05/2021;Rescate;Entes públicos;Gampsonyx swainsonii;AV;1
+3.453634;-76.550189;AV4 OESTE#6-159;Santa Rita;2;6;6;25/05/2021;Rescate;Carretera;Didelphis marsupialis;MA;1
+3.4644788;-76.5083788;Cra. 2b #44-67, Cali, Valle del Cauca, Colombia;Manzanares;4;3;2;26/05/2021;Rescate;Comunidad;EGRETTA THULA;AV;1
+3.4522969;-76.5614117;CL 20 OESTE # 4-58;Terron Colorado;1;2;6;28/05/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.443282;-76.5010605;Cra. 40b #11-45, Cali, Valle del Cauca, Colombia;Siloé - Sector La Nave;20;1;6;08/06/2021;Rescate;Comunidad;Dasyprocta punctata;MA;1
+3.432768;-76.472813;Cl. 84 & Cra. 26c, Cali, Valle del Cauca, Colombia;Puerta del Sol;14;1;4;09/06/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+;;Cl. 70c #2-8, Cali, Palmira, Valle del Cauca, Colombia;El Pondaje;13;2;4;11/06/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+;;Cra. 56 #67, Cali, Valle del Cauca, Colombia;El Refugio;19;4;5;15/06/2021;Rescate;Entes públicos;Picidae sp.;#N/D;1
+;;Cra. 1 #32-35, Cali, Valle del Cauca, Colombia;Sultana - Berlín - San Francisco;4;2;2;16/06/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+3.4150191;-76.5281128;Cra. 42a ##14c-26, Cali, Valle del Cauca, Colombia;Villa del Sur;11;3;3;13/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3616432;-76.5328092;Cl. 15b ##106-77, Cali, Valle del Cauca, Colombia;Urbanización Ciudad Jardín;22;6;5;03/06/2021;Rescate;Comunidad;Milvago chimachima;AV;1
+3.4245168;-76.5432283;25 #38, Ponedera, Atlántico, Colombia;San Fernando Nuevo;19;4;6;22/04/2021;Presencia;Comunidad;Chiroptera;MA;0
+3.4245168;-76.5432283;25 #38, Ponedera, Atlántico, Colombia;San Fernando Nuevo;19;4;6;22/04/2021;Presencia;Comunidad;Chiroptera;MA;0
+3.3415728;-76.5502983;CL3 #123-146 PANCE;Parcelaciones Pance;22;6;5;25/06/2021;Rescate;Establecimiento comercial;Megascops choliba;AV;1
+3.4268322;-76.5259109;Cra. 31 #15-08, Cali, Valle del Cauca, Colombia;Santa Elena;10;3;6;21/05/2021;Rescate;Comunidad;Colibri coruscans;#N/D;1
+3.4265244;-76.5138864;Cl. 30a #30a-17, Cali, Valle del Cauca, Colombia;La Fortaleza;11;3;3;01/06/2021;Presencia;Institución educativa;Apis mellifera;#N/D;1
+;;Cali, Valle del Cauca, Colombia;San Antonio;3;3;1;05/04/2021;Control de poblaciones;Comunidad;Didelphis marsupialis;MA;1
+;;CL30 OESTE # 24C BIS 49 CALI;San Fernando Nuevo;19;4;6;01/06/2021;Presencia;Entes públicos;Didelphis marsupialis;MA;1
+;;Cra. 57 #231, Cali, Valle del Cauca, Colombia;Cuarto de Legua - Guadalupe;19;5;5;19/04/2021;Presencia;Entes públicos;Didelphis marsupialis;MA;0
+;;Cl. 1c ##76a-25, Cali, Valle del Cauca, Colombia;Los Farallones;18;3;5;11/06/2021;Presencia;Comunidad;Apis mellifera;#N/D;1
+;;Cali, Valle del Cauca, Colombia;Salomia;4;3;2;22/06/2021;ReubicaciónCAVF;Comunidad;Apis mellifera;#N/D;1
+;;Cali, Valle del Cauca, Colombia;Los Andes;5;3;2;28/06/2021;Presencia;Comunidad;Vespula sp;#N/D;1
+;;CR73B #1C-76;Los Farallones;18;3;5;25/06/2021;Presencia;Comunidad;Apis mellifera scutellata;#N/D;1
+;;Cl. 18 #18-26, Cali, Valle del Cauca, Colombia;Villa del Sur;11;3;3;26/04/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4142117;-76.5209717;Cra. 42a #26c-18, Cali, Valle del Cauca, Colombia;Villa del Sur;11;3;3;21/04/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4066768;-76.5112992;Cl. 44 & Cra. 43, Cali, Valle del Cauca, Colombia;República de Israel;16;2;4;21/04/2021;Presencia;Institución educativa;Apis mellifera;#N/D;
+;;Cali, Valle del Cauca, Colombia;Salomia;4;3;2;21/04/2021;Presencia;Entes públicos;Apis mellifera;#N/D;
+;;Cra. 25 #3-20, Cali, Valle del Cauca, Colombia;San Fernando Nuevo;19;4;6;01/05/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4729573;-76.5140593;Av. 2 Nte. #36, Cali, Valle del Cauca, Colombia;Prados del Norte;2;5;1;11/06/2021;Presencia;Entes públicos;Vespula sp;#N/D;
+3.4345618;-76.5459916;Cra. 35 #3-60, Cali, Valle del Cauca, Colombia;San Fernando Nuevo;19;4;6;28/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;3
+3.4014598;-76.5288191;Calle 15 # 56 - 155;El Limonar;17;3;5;29/06/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4103088;-76.5645331;Río cañaveralejo;Sector Cañaveralejo Guadalupe;19;5;6;29/06/2021;Liberación;;Didelphis marsupialis;MA;1
+3.458664;-76.523894;Calle 23 # 1 - 58;San Nicolás;3;2;1;29/06/2021;Entrega;Comunidad;Amazona amazónica;#N/D;2
+3.4650249;-76.5882897;Caí forestal en 7 carretera;Vista Hermosa - Palermo - La Legua;1;1;6;30/06/2021;Operativo;Carretera;;#N/D;
+;;Pereira, Risaralda;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;30/07/2021;Solicitud de Información;Comunidad;;#N/D;
+3.4444388;-76.5395931;Carrera 13 # 2a-33;San Cayetano;3;3;1;04/08/2021;Presencia;Institución educativa;Iguana iguana;RE;
+3.3750676;-76.5376017;Cra. 100 & Cl. 13, Cali, Valle del Cauca, Colombia;Mayapan - Las Vegas;17;5;5;04/08/2021;Rescate;Establecimiento comercial;Stelgidopteryx ruficollis;#N/D;1
+3.4612879;-76.5297693;Av 5 norte # 20n-08;Versalles;2;5;1;09/08/2021;Rescate;Entes públicos;Falco sparverius;AV;1
+3.4727871;-76.5004931;Cra 1c5 # 54-53;Torres de Comfandi;5;3;2;09/08/2021;Control de poblaciones;Comunidad;Araneae spp;#N/D;
+3.4376647;-76.5004188;Calle 44 # 24C - 03;La Nueva Floresta;12;3;3;09/08/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;
+3.4103766;-76.4727334;Cra 28b calle 121b esquina;Potrero Grande;21;2;4;09/08/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;
+3.3762172;-76.5440336;Carrera 94  # 4 d -59;Meléndez;18;3;5;10/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4115361;-76.5494883;Calle 3 entre carrera 52 y 56;Cuarto de Legua - Guadalupe;19;5;5;10/08/2021;Rescate;Comunidad;Nictibyus griseus;#N/D;1
+3.3708964;-76.5096542;Cra 98 # 57-58;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;11/08/2021;Rescate;Comunidad;Didelphis marsupialis;MA;2
+3.4192224;-76.4834573;Cra. 27g #83, Envigado, Antioquia, Colombia;Alfonso Bonilla Aragón;14;1;4;11/08/2021;Entrega;Comunidad;Pionus menstruus;AV;1
+3.4650249;-76.5882897;Kilómetro 7 vía al mar CAI forestal;Vista Hermosa - Palermo - La Legua;1;1;6;12/08/2021;Operativo;Carretera;;#N/D;
+3.3465;-76.5344242;Universidad Javeriana Cali;Parcelaciones Pance;22;6;5;13/08/2021;Permiso;Institución educativa;N/A;N/A;
+3.3480939;-76.5307147;Calle 18 # 118- 250;Parcelaciones Pance;22;6;5;13/08/2021;Rescate;Entidad privada;Mastigodruas pleii;#N/D;1
+3.4649145;-76.5212523;Cali terminal de transporte;San Vicente;2;4;1;13/08/2021;Operativo;Terminal de transporte;N/A;N/A;0
+3.4888732;-76.5568823;Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;13/08/2021;Liberación;;Didelphis marsupialis;MA;2
+3.3313827;-76.5353221;Carrera 127 con calle 16;Parcelaciones Pance;22;6;5;17/08/2021;Liberación;;Cormoran;#N/D;
+3.4729573;-76.5140593;no aplica;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;17/08/2021;Control de poblaciones;;N/A;N/A;
+3.4417739;-76.547737;Carrera 24 D # 6-237;Tejares - Cristales;19;6;6;17/08/2021;Control de poblaciones;Comunidad;Columbia livia;#N/D;
+3.3993749;-76.5211051;Dg. 65 #33-9, Cali, Valle del Cauca, Colombia;Ciudad 2000;16;4;5;17/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4148634;-76.5386468;Carrera 46 #9C - 85;Los Cámbulos;19;4;6;17/08/2021;Control de poblaciones;Entidad privada;Columbia livia;#N/D;
+3.4013816;-76.524073;Cra. 56 & Cl. 18 Sur, Puente Aranda, Bogotá, Colombia;Cañaverales - Los Samanes;17;3;5;17/08/2021;Rescate;Entes públicos;Rhinoclemmys melanosterna;RE;1
+3.4125647;-76.5549303;Carrera 55 # 1-85;El Lido;19;5;6;17/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3767019;-76.5440822;Calle 18A# 56-20;Meléndez;18;3;5;18/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3761776;-76.5488363;Calle 3A # 92 - 116;Meléndez;18;3;5;18/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3806948;-76.5440866;Tercera brigada casa fiscal b25;Meléndez;18;3;5;18/08/2021;Presencia;Entes públicos;Didelphis marsupialis;MA;
+3.4269535;-76.5476716;Calle  4 # 38B - 05;Santa Isabel;19;4;1;18/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4040151;-76.5301391;Calle 14b # 53- 120;El Limonar;17;3;5;19/08/2021;Rescate;Comunidad;Falco sparverius;AV;1
+3.4729573;-76.5140593;CRA 48 # 69-28 OESTE;Tierra Blanca;20;1;6;10/08/2021;Presencia;Comunidad;Apis mellifera;#N/D;
+3.407265;-76.5523057;Cra 59 # 1f-26;Pampa Linda;19;5;5;19/08/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4036478;-76.4997249;Carrera 41B # 45-99;El Vallado;15;2;4;19/08/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;
+3.413312;-76.5434124;Ak. 50 & Cl 8 Sur, Puente Aranda, Bogotá, Colombia;Nueva Tequendama;19;5;6;20/08/2021;Rescate;Comunidad;Coragyps atratus;AV;1
+3.4712229;-76.5172106;Av 2 norte # 35 - 02;Prados del Norte;2;5;1;20/08/2021;Presencia;Entes públicos;Vespidae ( avispa SP);#N/D;0
+3.491122;-76.4872984;Cra 1a # 73-1-36;San Luis II;6;2;2;20/08/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;
+3.3634031;-76.5376799;Calle 13 Cra 107;Urbanización Ciudad Jardín;22;6;5;23/08/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4138683;-76.5517288;Kr 52 entre Cl 3 y 2,;Cañaveralejo - Seguros Patria;19;5;5;23/08/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;0
+3.4542687;-76.577405;Av 5a Oeste # 30-190;Vista Hermosa - Palermo - La Legua;1;1;6;24/08/2021;Rescate;Comunidad;Rupornis magnitostris;#N/D;1
+3.492678;-76.4858408;Puente Internacional Comercio Mundial, 88176, México;Paso del Comercio;6;2;2;25/08/2021;Operativo;Carretera;N/A;N/A;
+3.4000669;-76.5278286;Calle 16 61;Sector Cañaveralejo Guadalupe;19;5;6;25/08/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4260274;-76.523342;Calle 18 #31A - 31;Santa Elena;10;3;6;25/08/2021;Decomiso;Comunidad;Ara ararauna;AV;1
+3.491122;-76.4872984;Cra 1a # 73-1-36;San Luis II;6;2;2;20/08/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;
+3.4269535;-76.5476716;Calle  4 # 38B - 05;Santa Isabel;19;4;1;18/08/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4771264;-76.4869715;Calle 70c # 1c2-13;La Rivera I;6;2;2;26/08/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.4109791;-76.5579095;Calle 3 oeste # 56 - 185;Cuarto de Legua - Guadalupe;19;5;5;26/08/2021;Liberación;Ecoparque cerro de la bandera;Didelphis marsupialis;MA;6
+3.447552;-76.5549731;Cra 2b1 # 14oeste-44;Santa Teresita;2;6;6;26/08/2021;Rescate;Comunidad;Amazona amazónica;#N/D;1
+3.377466;-76.521311;Cra 90 con 34;Urbanización Rio Lili;22;6;5;27/08/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4037312;-76.539565;Carrera 59#11-16;Santa Anita - La Selva;17;5;5;27/08/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.3807681;-76.5298293;Carrera 85c #15-59;El Ingenio;17;5;5;27/08/2021;Rescate;;Brotogeris jugularis;AV;1
+3.400638;-76.5497079;Calle 3 # 64-05;El Refugio;19;4;5;28/08/2021;Rescate;Comunidad;Ara severus;AV;1
+3.3861794;-76.5218226;Cra 84 # 34 - 12;Ciudadela Comfandi;17;3;5;30/08/2021;Rescate;;Milvago chimachima;AV;
+3.4526925;-76.5651804;Av 5 oeste # 22A - 65;Terron Colorado;1;2;6;30/08/2021;Rescate;;Didelphis marsupialis;MA;
+3.4161159;-76.5541967;Calle 1 oeste con carrera 52;Siloé - Sector La Nave;20;1;6;31/08/2021;Operativo;Galería;N/A;N/A;
+3.434818;-76.535788;Cra 26 # 37;Alameda;9;3;6;31/08/2021;Operativo;Galería;N/A;N/A;
+3.4776049;-76.5168263;Calle 44 Norte #2e - 185;Vipasa;2;4;1;31/08/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;
+3.4404915;-76.5127399;Calle 33 # 31- 82;La Floresta;8;3;3;31/08/2021;Operativo;Galería;N/A;N/A;
+3.4640781;-76.5166642;Cra 1 # 32 35;Jorge Isaacs;4;2;2;31/08/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;
+3.476666;-76.5238031;Calle 38N # 4N- 10;La Flora;2;5;1;01/09/2021;Control de poblaciones;Institución educativa;Apis mellifera;#N/D;1
+3.4127332;-76.5508708;Carrarera 52 entre carrera 2 y 3;Sector Cañaveralejo Guadalupe;19;5;6;02/09/2021;Control de poblaciones;Entes públicos;Vespidae ( avispa SP);#N/D;
+3.4179993;-76.4633306;Cl 126 cra 26i2;Calimio Desepaz;21;1;4;31/08/2021;Operativo;Comunidad;N/A;N/A;
+3.4682424;-76.4962153;Cra 2C# 58- 40;Los Andes;5;3;2;02/09/2021;Control de poblaciones;Comunidad;Vespidae ( avispa SP);#N/D;
+3.4539961;-76.5769567;Avenida 5a oe # 30-123;Vista Hermosa - Palermo - La Legua;1;1;6;01/09/2021;Rescate;Carretera;Trachemys callirostris;RE;0
+3.4515053;-76.5324577;Plaza Caicedo;Sucre;9;1;1;05/09/2021;Operativo;;Ara severus;AV;
+3.4765133;-76.5236691;Calle 38 Norte # 4N - 10;La Flora;2;5;1;06/09/2021;Control de poblaciones;Institución educativa;Apis mellifera scutellata;#N/D;
+3.4227904;-76.5374582;Calle 9 #38-109;Panamericano;10;3;6;07/09/2021;Control de poblaciones;Entes públicos;Apis mellifera scutellata;#N/D;
+3.4515053;-76.5324577;Carrera 4 con calle 11;Barrio Obrero;9;2;1;05/09/2021;Operativo;Entes públicos;Ara severus;AV;
+3.4915452;-76.5153806;Calle 63N 3c-68;La Flora;2;5;1;07/09/2021;Presencia;;Didelphis marsupialis;MA;
+3.41079;-76.5180167;Calle 36 # 44 - 20;Villa del Sur;11;3;3;07/09/2021;Rescate;;Didelphis marsupialis;MA;
+3.4086033;-76.5515812;Cra 57 # 2-31;Cuarto de Legua - Guadalupe;19;5;5;07/09/2021;Presencia;Comunidad;Iguana iguana;RE;0
+3.3772128;-76.543066;Calle 5 # 89-70;Meléndez;18;3;5;07/09/2021;Presencia;Institución educativa;Didelphis marsupialis;MA;
+3.3680223;-76.5315785;Carrera 100 # 15-170;Urbanización Ciudad Jardín;22;6;5;07/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3565431;-76.567521;Cementos Argos;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;08/09/2021;Liberación;Reserva cementos Argos;Didelphis marsupialis;MA;12
+3.490629;-76.5133854;Calle 70 # 3B - 81;La Flora;2;5;1;08/09/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;
+3.4051957;-76.5460654;Calle 6 # 60 39;Camino Real - Joaquin Borrero Sinisterra;19;5;5;09/09/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;1
+3.3919376;-76.5417002;Calle 10 A 72- 35;Ciudad Capri;17;5;5;09/09/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;
+3.3634272;-76.537772;Carrera 106 12B - 164;Urbanización Ciudad Jardín;22;6;5;09/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3896076;-76.5216128;Calle 34 # 74 - 12;Caney;17;4;5;09/09/2021;Control de poblaciones;Comunidad;Vespidae ( avispa SP);#N/D;
+3.453723;-76.5121589;Cra 8# 33 - 72;El Troncal;8;3;3;10/09/2021;Presencia;Entidad privada;Artibeus lituratus;MA;
+3.3954764;-76.5448131;Cra 68 # 6-76;El Limonar;17;3;5;10/09/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.3889827;-76.5433365;Cra 77 a # 8- 35;Ciudad Capri;17;5;5;10/09/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;
+3.3817549;-76.5151394;Cra 85 # 48 a 17;Caney;17;4;5;10/09/2021;Rescate;Comunidad;Pionus menstruus;AV;
+3.4712479;-76.5153786;Calle 126 con cra 26 i2;Los Lideres;21;1;4;01/09/2021;Presencia;;N/A;N/A;
+3.4895446;-76.5107687;Avenida 3N # 60_75;La Flora;2;5;1;23/08/2021;Control de poblaciones;Entidad privada;Vespidae ( avispa SP);#N/D;
+3.4158973;-76.5536774;Cra 50 con calle 1 oeste # 1- 85;El Lido;19;5;6;15/09/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;1
+3.3583671;-76.5142378;Carrera 109# 50 - 00;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;15/09/2021;Rescate;;Iguana iguana;RE;
+3.4553239;-76.5076843;Cra 8 # 39-01;El Troncal;8;3;3;16/09/2021;Presencia;Entes públicos;Ardea alba;AV;
+3.4811842;-76.5280929;Av 6D # 41- 16;La Campiña;2;4;1;16/09/2021;Rescate;;Didelphis marsupialis;MA;
+3.3954486;-76.5529606;Calle 2 66b - 129;El Refugio;19;4;5;17/09/2021;Entrega;Comunidad;Trachemys callirostris;RE;
+3.490516;-76.522177;Calle 58 Norte 5B Norte 98 5b;La Flora;2;5;1;20/09/2021;Inspección;Comunidad;N/A;N/A;
+3.4551928;-76.5762148;Calle 30A oeste # 6 - 06;Vista Hermosa - Palermo - La Legua;1;1;6;20/09/2021;Presencia;;Didelphis marsupialis;MA;
+3.4076557;-76.5538043;Calle 1D No 56 - 175;Cuarto de Legua - Guadalupe;19;5;5;20/09/2021;Presencia;;Didelphis marsupialis;MA;
+3.3714932;-76.5498392;Carrera 99 2A 190;Meléndez;18;3;5;20/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3661872;-76.5290994;Carrera 101#17-36;Urbanización Ciudad Jardín;22;6;5;20/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4320592;-76.4912675;Carrera 26i1 # 72j-64;Villa del Lago;13;3;4;20/09/2021;Inspección;Comunidad;No aplica;#N/D;
+3.4856274;-76.5502876;Calle 2 # 52 - 00;El Lido;19;5;6;15/09/2021;Control de poblaciones;Entes públicos;Apis mellifera;#N/D;
+3.3689313;-76.5177289;Cra 99 con calle 48;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;21/09/2021;Presencia;;Didelphis marsupialis;MA;
+3.3607824;-76.5420156;Calle 12 #111-36;Urbanización Ciudad Jardín;22;6;5;21/09/2021;Rescate;Comunidad;Didelphis marsupialis;MA;2
+3.3761486;-76.5445854;Calle 4d # 93-26;Meléndez;18;3;5;21/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3840113;-76.5410718;Carrera 82 # 6a-59;Mayapan - Las Vegas;17;5;5;21/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.381443;-76.531512;Carrera 85b # 14 a 50;El Ingenio;17;5;5;21/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3881535;-76.5187831;CRA 80 A # 43 - 50;Caney;17;4;5;21/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4006964;-76.5317098;Cr64 b # 14 - 24;El Limonar;17;3;5;21/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4330875;-76.5466782;CRA 36 # 3A _ 62;San Fernando Viejo;19;4;1;21/09/2021;Presencia;;Didelphis marsupialis;MA;
+3.4250623;-76.5025881;Calle 70 # 28g - 84;Julio Rincón;12;2;4;22/09/2021;Operativo;Establecimiento comercial;N/A;N/A;
+3.3797552;-76.5426987;Carrera 86 a # 5-31;Mayapan - Las Vegas;17;5;5;22/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.4112032;-76.5180125;Calle 27 # 43a-89;Villa del Sur;11;3;3;22/09/2021;Operativo;;N/A;N/A;
+3.407418;-76.5264954;Carrera 56 # 18A - 80;Cañaverales - Los Samanes;17;3;5;22/09/2021;Operativo;;N/A;N/A;
+3.4453716;-76.4998573;Calle 50 # 13 - 41;Chapinero;8;3;3;22/09/2021;Rescate;Comunidad;Atractus sp;#N/D;1
+3.3786138;-76.51888;Calle 45 # 86 38;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;22/09/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4016964;-76.5356589;Cra 64A # 13A - 57;Bosques del Limonar;17;4;5;23/09/2021;Presencia;;Milvago chimachima;AV;
+3.4200085;-76.5255611;Cra 37ª #15-25;Cristóbal Colón;10;3;6;23/09/2021;Inspección;Comunidad;Columbia livia;#N/D;
+3.4238943;-76.5204119;Cra 33 A # 25 - 25;Urbanización Boyaca;11;3;3;23/09/2021;Control de poblaciones;Comunidad;Columbia livia;#N/D;
+3.369385;-76.525907;Carrera 98# 16 - 200;Urbanización San Joaquin;17;5;5;23/09/2021;Rescate;Entidad privada;Falco sparverius;AV;
+3.4596834;-76.5548167;Av 15 oeste;Aguacatal;1;1;6;16/09/2021;Rescate;Carretera;Iguana iguana;RE;
+3.4033789;-76.5341032;Calle 13D# 57-32;Primero de Mayo;17;4;5;24/09/2021;Presencia;Comunidad;Chiroptera;MA;0
+3.4000739;-76.5082186;Cra 45 # 51-47;Ciudad Córdoba;15;3;4;27/09/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;0
+3.4087903;-76.5556533;Calle 1 # 56 - 70;Cuarto de Legua - Guadalupe;19;5;5;27/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3771442;-76.5182823;Carrera 91 # 45-53;Caney;17;4;5;27/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4572487;-76.5380698;calle 10N # 10 - 15;Juanambú;2;5;1;27/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4590164;-76.5362197;Calle 13n # 9an 37;Granada;2;4;1;27/09/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3694877;-76.539602;Carrera 101A # 11B - 29;Urbanización Ciudad Jardín;22;6;5;27/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;
+3.3708013;-76.549946;Cra 99 # 2a-190;Meléndez;18;3;5;27/09/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;0
+3.4133988;-76.5380415;Calle 10 # 96-40;Los Cámbulos;19;4;6;28/09/2021;Control de poblaciones;Entidad privada;Apis mellifera scutellata;#N/D;0
+3.4924014;-76.5633214;Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;28/09/2021;Liberación;;Iguana iguana;RE;
+3.3794316;-76.5391741;Cra 85 # 11 - 74;Ciudadela Pasoancho - Multicentro;17;5;5;29/09/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;0
+3.4480659;-76.4783875;Calle 79 # 9a-72;Puerto Mallarino;7;2;4;29/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.349408;-76.5439778;CRA 118# 9- 35;Parcelaciones Pance;22;6;5;29/09/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.3577405;-76.5178232;Calle 44 # 109-80;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;29/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3879864;-76.5294783;Cra 80 15- 31;Prados del Limonar;17;4;5;29/09/2021;Rescate;Comunidad;Bienteveo comun;#N/D;
+3.3694688;-76.5395882;Cra 101a # 11b-80;Parcelaciones Pance;22;6;5;29/09/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3770388;-76.5239471;Cra 92 # 25 - 81;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;29/09/2021;Presencia;Comunidad;Quiroptero;#N/D;0
+3.3708013;-76.549946;Carrera 99 # 2A 190;Meléndez;18;3;5;30/09/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4453668;-76.5527748;Cra 4 oeste # 12- 190;Bellavista;19;2;6;30/09/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3500135;-76.5305679;Calle 18 # 118- 250;Parcelaciones Pance;22;6;5;03/09/2021;Rescate;Entidad privada;Mastigodruas pleii;#N/D;
+3.4463146;-76.5018617;Calle 12 E # 53 - 26;Villa Colombia;8;3;3;04/10/2021;Control de poblaciones;Institución educativa;Apis mellifera scutellata;#N/D;1
+3.3666127;-76.5272103;Calle 100 con carrera 25;Urbanización Ciudad Jardín;22;6;5;04/10/2021;Presencia;;Didelphis marsupialis;MA;0
+3.4712671;-76.51537;Avenida 4 Oeste # 13-411;Terron Colorado;1;2;6;07/09/2021;Presencia;Institución educativa;N/A;N/A;0
+3.4244836;-76.5295362;Calle 13 # 32 88;Urbanización Colseguros;19;4;6;04/10/2021;Control de poblaciones;Institución educativa;Apis mellifera scutellata;#N/D;1
+3.4066768;-76.5112992;Cra 43 # 44 - 00;República de Israel;16;2;4;04/10/2021;Control de poblaciones;Institución educativa;Apis mellifera scutellata;#N/D;0
+3.3664898;-76.540326;Carrera 103 # 11-40;Urbanización Ciudad Jardín;22;6;5;05/10/2021;Entrega;Comunidad;Amazona ochrocephala;AV;1
+3.5062122;-76.5486824;Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;24/09/2021;Liberación;Zona rural;Didelphis marsupialis;MA;9
+3.4934579;-76.5680139;rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;03/09/2021;Liberación;;Didelphis marsupialis;MA;3
+3.4018034;-76.5277848;Calle 14 23-15;El Limonar;17;3;5;06/10/2021;Presencia;Comunidad;N/A;N/A;0
+3.3844972;-76.5171714;Cra 83c# 46-31;Caney;17;4;5;06/10/2021;Inspección;;Amazona ochrocephala;AV;1
+3.490281;-76.5128627;Calle 62 Norte # 3bn-35;La Flora;2;5;1;06/10/2021;Inspección;Comunidad;N/A;N/A;0
+3.3917376;-76.5283451;Calle 16 entre carrera 71 y 72;El Gran Limonar;17;5;5;07/10/2021;Operativo;Entidad privada;N/A;N/A;0
+3.4377059;-76.5005105;Calle 44 # 24c-01;La Nueva Floresta;12;3;60718;11/10/2021;Presencia;Didelphis marsupialis;Zarigüeya;Didelphimorphia;0
+3.4377059;-76.5005105;Calle 44 # 24C - 01;La Nueva Floresta;12;3;3;12/10/2021;Rescate;;Zarigueyas;#N/D;1
+3.4303854;-76.5451153;Calle 5 # 36 -08;San Fernando Viejo;19;4;60719;12/10/2021;Rescate;Didelphis marsupialis;Zarigüeya;Didelphimorphia;1
+3.4650277;-76.521893;Terminal de Transportes de Cali;San Vicente;2;4;1;12/10/2021;Operativo;;Sicalis flaveola;AV;1
+3.3402405;-76.524349;Via Cali Jamundi;Urbanización Ciudad Jardín;22;6;5;07/10/2021;Operativo;Carretera;N/A;N/A;0
+3.4308945;-76.5463122;Calle 5 No 36- 08;San Fernando Viejo;19;4;1;11/10/2021;Rescate;;Didelphis marsupialis;MA;1
+3.3694877;-76.539602;Cra 101A # 11 B 29;Urbanización Ciudad Jardín;22;6;5;12/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;2
+3.4028738;-76.5483977;Calle 5 # 62 - 00;Pampa Linda;19;5;5;12/10/2021;Rescate;Institución educativa;Zarigueyas;#N/D;2
+3.4649145;-76.5212523;Calle 30n # 2An - 29;San Vicente;2;4;1;14/10/2021;Operativo;;N/A;N/A;0
+3.3731099;-76.5065268;Calle 97 # 58 31;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;14/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3889827;-76.5433365;Cra 77A # 8 -35;Ciudad Capri;17;5;5;14/10/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.3827364;-76.5589058;Cra 81 con 1b - 25 oeste;Alto Nápoles;18;1;5;13/10/2021;Presencia;Institución educativa;N/A;N/A;0
+3.4625524;-76.5327458;Av 9N # 20N- 45;Granada;2;4;1;15/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;1
+3.4034441;-76.5160313;Calle 43 # 47 b 02;Mariano Ramos;16;2;4;19/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;1
+3.4573566;-76.5365283;Av 9AN # 9N - 25;Granada;2;4;1;19/10/2021;Presencia;Comunidad;Zarigueyas;#N/D;0
+3.4495616;-76.5098964;Calle  35 # 11B - 20;El Troncal;8;3;3;19/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4198229;-76.5412857;Calle 7 # 41 - 11;Los Cámbulos;19;4;6;20/10/2021;Rescate;Entidad privada;Zarigueyas;#N/D;2
+3.4501622;-76.5359873;Calle 6 #4-44;La Merced;3;3;1;21/10/2021;Control de poblaciones;Entidad privada;Apis mellifera scutellata;#N/D;1
+3.3824182;-76.5591892;Cra 83 1b -25 oeste;Alto Nápoles;18;1;5;21/10/2021;Presencia;Institución educativa;N/A;N/A;0
+3.449433;-76.5426392;Calle 3 Oeste #3A - 10;El Peñón;3;5;1;22/10/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;0
+3.4628994;-76.5331948;Calle 21norte # 9-17;Granada;2;4;1;22/10/2021;Rescate;Establecimiento comercial;Didelphis marsupialis;MA;5
+3.4099033;-76.5261652;Calle 16 # 45-68;Las Granjas;10;3;6;22/10/2021;Rescate;Comunidad;Stenorrhina degenardtii;#N/D;1
+3.4546844;-76.5671592;AV 7 oeste # 20-54;Terron Colorado;1;2;6;22/10/2021;Rescate;Institución educativa;Didelphis marsupialis;MA;1
+3.4555779;-76.49517;Carrera 8# 58-67;La Base;8;3;3;25/10/2021;Control de poblaciones;Entes públicos;N/A;N/A;0
+3.4712671;-76.51537;Cl. 6 Oe. #6-89;Aguacatal;1;1;6;25/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4729573;-76.5140593;cra 22 # 3A - 08;Los Libertadores;3;3;1;21/10/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;1
+3.4394481;-76.542813;Carrera 24 C # 2 - 72 oeste;Miraflores;19;4;1;22/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.47386;-76.5287484;Calle 35Norte #6a bis-36;Chipichape;2;5;1;25/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4502521;-76.4775705;Cra 8 con calle 86;Alfonso Lopez III;7;3;2;02/09/2021;Operativo;;N/A;N/A;0
+3.4165374;-76.4757177;Cra 27 # 109-08;Las Orquídeas;14;1;4;22/09/2021;Operativo;Comunidad;N/A;N/A;0
+3.4417902;-76.5118724;Cra 17f # 33a-38;La Floresta;8;3;3;31/08/2021;Operativo;;N/A;N/A;0
+3.4581186;-76.5150599;Cra 5 # 31a-20;Porvenir;4;2;2;31/08/2021;Operativo;;N/A;N/A;0
+3.4513949;-76.4791603;Cra 8 # 78-81;Alfonso Lopez I;7;3;2;31/08/2021;Operativo;;N/A;N/A;0
+3.4022201;-76.5323961;Carrera 64a #13B-256;Primero de Mayo;17;4;5;27/10/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.480418;-76.52312;Calle 43 N # 4N 104;La Flora;2;5;1;27/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4162335;-76.5169779;Cr 41b #28 - 05;La Independencia;11;3;3;27/10/2021;Inspección;Comunidad;Didelphis marsupialis;MA;0
+3.3770575;-76.5200582;Calle 42 # 90 - 04;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;27/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3552644;-76.5173352;Calle 46 # 113 - 29;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;22/10/2021;Rescate;Comunidad;Dasyprocta punctata;MA;1
+3.4527292;-76.489745;Cra 7V 61- 35;Las Ceibas;7;3;2;20/10/2021;Rescate;;Chiroptera;MA;1
+3.4075683;-76.5553234;Cra 59 # 1-44;Cuarto de Legua - Guadalupe;19;5;5;28/10/2021;Presencia;Comunidad;Vespidae ( avispa SP);#N/D;0
+3.3705397;-76.5404968;Calle 11a #100b-60;Urbanización Ciudad Jardín;22;6;5;28/10/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.385193;-76.5258774;Carrera 83a #20-05;El Ingenio;17;5;5;28/10/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.4309759;-76.4631806;Calle 112a #21-16;Compartir;21;2;4;28/10/2021;Entrega;;Amazona ochrocephala;AV;1
+3.4598333;-76.4835548;Calle 70 # 7ebis-04;Fepicol;7;3;2;28/10/2021;Rescate;Entidad privada;Iguana iguana;RE;1
+3.4583699;-76.549822;Av 15 oeste # 8 - 79;Aguacatal;1;1;6;28/10/2021;Rescate;Comunidad;Colibri coruscans;#N/D;1
+3.4870427;-76.5298663;Calle 53N 7 - 76;El Bosque;2;5;1;28/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3694776;-76.5402205;Cra 101A # 11 B 29;Urbanización Ciudad Jardín;22;6;5;29/10/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3323083;-76.5321567;Calle 18 #127-115 local 10-11;Parcelaciones Pance;22;6;5;29/10/2021;Rescate;Establecimiento comercial;Dasyprocta punctata;MA;1
+3.4759519;-76.5278169;Chipichape local 316;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4759519;-76.5278169;Chipichape local 315 F. NEBULONI;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.476308;-76.527663;Centro comercial chipichape Local 216;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4760386;-76.5272929;CC Chipichape Local 301;Chipichape;2;5;1;02/11/2021;Visita CAVFS;;N/A;N/A;0
+3.4756918;-76.5273042;Centro comercial chipichape local 303;Chipichape;2;5;1;02/11/2021;Visita CAVFS;;N/A;N/A;0
+3.3583213;-76.5428978;Calle 12 # 112- 120;Urbanización Ciudad Jardín;22;6;5;03/11/2021;Entrega;Comunidad;Boa constrictor;RE;1
+3.4712671;-76.51537;CC Chipichape;Chipichape;2;5;1;03/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+3.3690615;-76.537418;Cra 101 12 A bis 70;Urbanización Ciudad Jardín;22;6;5;03/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3903945;-76.5473394;Carrera 75 # 3d-15;Alférez Real;18;3;5;04/11/2021;Inspección;Comunidad;N/A;N/A;0
+3.4775947;-76.5211126;Av3FNorte 40N 10;Vipasa;2;4;1;04/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;-1
+3.477354;-76.527349;calle 38N # 6N - 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4633733;-76.5357711;Ecoparque bataclan;Sector Altos de Normandia - Bataclán;2;1;1;05/11/2021;Liberación;Entes públicos;N/A;N/A;4
+3.4472454;-76.5562835;Cra 2A N 15- 15 oeste;Santa Teresita;2;6;6;05/11/2021;Rescate;Comunidad;Dasyprocta punctata;MA;1
+3.4766371;-76.5278555;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.3923929;-76.5464257;Calle 4 # 72- 31;Buenos Aires;18;3;5;13/10/2021;Rescate;Establecimiento comercial;Didelphis marsupialis;MA;1
+3.4439624;-76.5152833;Calle 30 16a-07;La Floresta;8;3;3;05/11/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;0
+3.478617;-76.52794;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4767824;-76.527496;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4765232;-76.5288412;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Comunidad;N/A;N/A;0
+3.4759519;-76.5278169;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4769882;-76.5275657;Calle 38N #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4244836;-76.5295362;Calle 13 # 32 88;Urbanización Colseguros;19;4;6;04/10/2021;Control de poblaciones;Institución educativa;Apis mellifera scutellata;#N/D;1
+3.3705397;-76.5404968;Calle 11a #100b-60;Urbanización Ciudad Jardín;22;6;5;28/10/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.426805;-76.5480329;cra 38D 4- 39;Santa Isabel;19;4;1;29/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.3750113;-76.53736;Calle 13 # 100-00;Mayapan - Las Vegas;17;5;5;03/11/2021;Rescate;Entes públicos;Megascops choliba;AV;2
+3.4004938;-76.5521958;Calle 2a # 64a 15;La Cascada;19;5;5;29/10/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4562095;-76.5374458;AV 9 AN 3 9N -25;Granada;2;4;1;19/10/2021;Presencia;Comunidad;Zarigueyas;#N/D;0
+3.4767824;-76.527496;Cl. 38 Nte. #6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4772126;-76.5274672;Cl. 38 Nte. # 6N – 45;Chipichape;2;5;1;02/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+3.4231373;-76.5306462;Cra 35# 12A - 111;Olímpico;10;4;6;03/11/2021;Rescate;Comunidad;Rupornis magnitostris;#N/D;1
+3.4022538;-76.5482014;calle 5 # 62- 00;Pampa Linda;19;5;5;08/11/2021;Rescate;Entidad privada;Didelphis marsupialis;MA;4
+3.4581013;-76.5618143;Avenida 15 Oeste # 19 - 360 Bloque 1 primer piso;Aguacatal;1;1;6;10/11/2021;Inspección;Comunidad;N/A;N/A;0
+3.4000739;-76.5082186;Cra 45 No 51- 42;Ciudad Córdoba;15;3;4;09/11/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4039319;-76.52709;Calle 16 # 53 - 51;Cañaverales - Los Samanes;17;3;5;09/11/2021;Control de poblaciones;Comunidad;N/A;N/A;0
+3.4038617;-76.5270557;Calle 16# 53-51;Cañaverales - Los Samanes;17;3;5;04/11/2021;Control de poblaciones;Comunidad;N/A;N/A;0
+3.4339882;-76.4945945;Diagonal 70 # 26j-119;Ricardo Balcázar;13;2;4;10/11/2021;Inspección;Comunidad;Pionus menstruus;AV;3
+3.451469;-76.557973;Calle 18 oeste 4 - 95;Terron Colorado;1;2;6;10/11/2021;Rescate;Comunidad;Cerdocyon thous;MA;1
+3.4656084;-76.5221668;Calle 30N # 2aN-29;San Vicente;2;4;1;11/11/2021;Operativo;Terminal de transporte;N/A;N/A;0
+3.3956184;-76.5211755;cra 68 A # 33 - 122;Ciudad 2000;16;4;5;10/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;4
+3.4664651;-76.5220276;Calle 30 N #2AN - 29;San Vicente;2;4;1;12/11/2021;Operativo;Terminal de transporte;N/A;N/A;0
+3.4776237;-76.539571;zona rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;10/11/2021;Liberación;Zona rural;Didelphis marsupialis;MA;5
+3.3332186;-76.5368136;Cra 127 con 16;Parcelaciones Pance;22;6;5;03/11/2021;Liberación;Ecoparque las garzas;EGRETTA THULA;AV;2
+3.4548101;-76.5360157;Calle 13 #66bis - 57 Oficina 223;La Hacienda;17;5;5;16/11/2021;Presencia;Entidad privada;N/A;N/A;0
+3.4924014;-76.5633214;zona rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;11/11/2021;Liberación;Zona rural;Sciurus granatensis;MA;2
+3.4729372;-76.5354125;Zona Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;25/10/2021;Liberación;Zona rural;Didelphis marsupialis;MA;2
+3.4022201;-76.5323961;Carrera 64a # 13b -256;Primero de Mayo;17;4;5;18/11/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4126861;-76.5493899;Carrera 54 # 3-54;Cañaverales - Los Samanes;17;3;5;18/11/2021;Control de poblaciones;Entes públicos;Apis mellifera scutellata;#N/D;3
+3.4550396;-76.5328995;Av 2 con calle 12norte;Granada;2;4;1;19/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4196537;-76.5344356;Calle 11# 41A - 36;Departamental;10;4;6;12/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.383294;-76.523631;Carrera 83D #29-23 Conjunto A casa 89;Ciudadela Comfandi;17;3;5;19/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.3812642;-76.5265461;Cra 85B# 18 - 03;El Ingenio;17;5;5;19/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;8
+3.4327812;-76.5359837;cra 27 # 8 - 40;Alameda;9;3;6;17/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4026728;-76.5436139;cra 62 c # 9 17;El Gran Limonar;17;5;5;18/11/2021;Rescate;Comunidad;Milvago chimachima;AV;1
+3.4688786;-76.4879624;cra 4b # 65b -41;Villa del Prado - El Guabito;5;3;2;09/09/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4688786;-76.4879624;Cra 4b #65b -41;Villa del Prado - El Guabito;5;3;2;23/11/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4688786;-76.4879624;Cra 4b # 65b 41;Villa del Prado - El Guabito;5;3;2;23/11/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.4437024;-76.5370558;Cra 14 # 4 56;San Cayetano;3;3;1;25/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4907318;-76.5140025;Calle 70 norte # 3b-81;La Flora;2;5;1;24/11/2021;Solicitud de Información;Entes públicos;Mastigodruas pleii;#N/D;1
+3.4146864;-76.512478;Calle 36 # 43a-48;Villa del Sur;11;3;3;25/11/2021;Control de poblaciones;Entidad privada;Columbia livia;#N/D;2
+3.3557524;-76.5144737;Cra 112 - 25;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;25/11/2021;Rescate;Comunidad;Mastigodruas pleii;#N/D;1
+3.4397919;-76.542284;Calle 2oeste #24 bis - 50;Miraflores;19;4;1;25/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4917685;-76.5466181;Zona Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;19/11/2021;Liberación;Zona rural;Didelphis marsupialis;MA;8
+3.4698553;-76.5402557;Zona Rural;Perimetro Externo;Perimetro Externo;Perimetro Externo;N/A;24/11/2021;Liberación;Zona rural;Cerdocyon thous;MA;1
+3.4878739;-76.5322586;Av 9AN # 54 - 88;El Bosque;2;5;1;25/11/2021;Control de poblaciones;Comunidad;Vespidae ( avispa SP);#N/D;0
+3.380336;-76.5080565;Carrera 83c # 53a-34;Caney;17;4;5;25/11/2021;Presencia;Entidad privada;Didelphis marsupialis;MA;1
+3.4527123;-76.5630545;Av 5 oeste # 21 - 57;Terron Colorado;1;2;6;26/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4237421;-76.5322071;Cra con calle 12;Olímpico;10;4;6;26/11/2021;Control de poblaciones;Entes públicos;Apis mellifera scutellata;#N/D;0
+3.4941768;-76.4851588;Carrera 1d norte # 83-35;Paso del Comercio;6;2;2;29/11/2021;Rescate;Comunidad;Megascops choliba;AV;1
+3.438834;-76.539115;Carrera 23b #3-113;Miraflores;19;4;1;29/11/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+3.4341978;-76.5442552;Carrera 34 # 4a-49;San Fernando Viejo;19;4;1;29/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+3.4235763;-76.5322602;Cra 34 con calle 12;Olímpico;10;4;6;30/11/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+3.3979041;-76.5346148;Carrera 66B # 13a-49;El Limonar;17;3;5;30/11/2021;Control de poblaciones;Comunidad;Vespidae ( avispa SP);#N/D;1
+3.4117369;-76.4695539;Cra 27d1 # 123-18;Calimio Desepaz;21;1;4;01/12/2021;Control de poblaciones;Comunidad;Apis mellifera;#N/D;0
+3.4061918;-76.517483;Calle 40 # 46c-40;Mariano Ramos;16;2;4;01/12/2021;Presencia;Comunidad;N/A;N/A;0
+3.4184468;-76.5236104;Cra 40 # 18-85;El Guabal;10;3;6;01/12/2021;Control de poblaciones;Institución educativa;Apis mellifera;#N/D;0
+3.3892872;-76.5378794;Calle 13a #76-26;Las Quintas de Don Simón;17;5;5;01/12/2021;Presencia;Comunidad;N/A;N/A;0
+3.4801678;-76.5076899;Calle 52 Norte #8N -94;Flora Industrial;4;3;2;01/12/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;2
+3.4741761;-76.5213432;Calle 37N#3n-132;Prados del Norte;2;5;1;01/12/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+3.4865261;-76.5322909;Calle 53 norte # 10n-04;El Bosque;2;5;1;02/12/2021;Rescate;Comunidad;Megascops choliba;AV;2
+3.3961787;-76.5423261;Calle 10a # 67a-22;El Limonar;17;3;5;02/12/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+3.3986573;-76.5132123;Carrera 49 #48-56;Ciudad Córdoba;15;3;4;03/12/2021;Entrega;Comunidad;Trachemys callirostris;RE;1
+3.4392699;-76.5415612;Calle 2A # 24A-150;Miraflores;19;4;1;06/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4420183;-76.5462041;Carrera 24C Oeste # 6-85;Miraflores;19;4;1;06/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4784789;-76.5149048;Av 2F Norte # 45N-38;La Merced;3;3;1;06/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+3.4590875;-76.5520884;calle 6 oeste# 10-85;Aguacatal;1;1;6;05/12/2021;Rescate;Comunidad;Trochilidae;#N/D;1
+3.3460555;-76.5193959;calle 45 # 120-83;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;04/12/2021;Rescate;Comunidad;Iguana iguana;RE;1
+3.4874466;-76.5223658;Av 5AN # 50AN - 40;La Flora;2;5;1;06/12/2021;Control de poblaciones;Entidad privada;Vespidae ( avispa SP);#N/D;0
+3.4470682;-76.5112697;Carrera 11H # 33A-57;Municipal;8;3;3;07/12/2021;Inspección;Comunidad;N/A;N/A;0
+3.3856117;-76.5235699;Calle 26 # 82B-05;Caney;17;4;5;07/12/2021;Rescate;Comunidad;Megascops choliba;AV;1
+;;cra 82b # 35 - 28;Ciudadela Comfandi;17;3;5;07/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;calle 98 # 98 -98b;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;30/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+;;Av 4oeste # 25-33;Terron Colorado;1;2;6;30/11/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Entes públicos;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Cra 98 # 16-200;Urbanización San Joaquin;17;5;5;26/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Av 15 Oeste # 5-46;Aguacatal;1;1;6;29/11/2021;Operativo;Comunidad;N/A;N/A;0
+;;Cra 15 # 44-31;Chapinero;8;3;3;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Cra 15 # 49-58;Chapinero;8;3;3;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 33A # 16-22;La Floresta;8;3;3;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 33A # 16-08;La Floresta;8;3;3;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 33A # 17F-72;La Floresta;8;3;3;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 9 # 23A-78;Alameda;9;3;6;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 8 # 23-56;Alameda;9;3;6;09/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Calle 8 # 23A-77;Alameda;9;3;6;09/11/2021;Visita CAVFS;Establecimiento comercial;N/A;N/A;0
+;;Calle 8 # 23a-83;Alameda;9;3;6;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 8 # 23A-100;Alameda;9;3;6;09/11/2021;Operativo;Establecimiento comercial;N/A;N/A;0
+;;Calle 2 oeste # 24bis- 50;Miraflores;19;4;1;25/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Calle 2 Oeste # 24bis- 50;Miraflores;19;4;1;07/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Calle 4D 92 - 14;Meléndez;18;3;5;13/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Calle 5 # 83 - 00;Meléndez;18;3;5;13/12/2021;Rescate;Entes públicos;EGRETTA THULA;AV;1
+;;Calle 30B oeste No 6- 66;Terron Colorado;1;2;6;26/11/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Cra 56 # 11-36;Santa Anita - La Selva;17;5;5;30/11/2021;Rescate;Comunidad;Pionus menstruus;AV;1
+;;Cra 3 # 7 - 55;Centenario;2;5;1;07/11/2021;Rescate;Comunidad;Milvago chimachima;AV;1
+;;Calle 3A # 65 -70;El Refugio;19;4;5;14/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Calle 30B Oeste # 6-66;Terron Colorado;1;2;6;14/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Carrera 1 A 8 # 70-75;San Luis;6;2;2;14/12/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;1
+;;Carrera 75a #13a-122;Las Quintas de Don Simón;17;5;5;17/12/2021;Control de poblaciones;Entidad privada;Cerdocyon thous;MA;1
+;;Calle 70c # 28b-90;El Pondaje;13;2;4;20/12/2021;Rescate;Establecimiento comercial;Milvago chimachima;AV;1
+;;Carrera 92 #1-118;El Jordán;18;2;5;20/12/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
+;;Calle 47B norte 3c 91;Vipasa;2;4;1;21/12/2021;Control de poblaciones;Comunidad;Vespidae ( avispa SP);#N/D;0
+;;Calle 1B #68-65;El Refugio;19;4;5;21/12/2021;Presencia;Comunidad;N/A;N/A;0
+;;Calle 50 norte # 2gn 100;La Merced;3;3;1;21/12/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+;;Cra 85D # 42-95;Caney;17;4;5;21/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Cra 46 # 37_70;Mariano Ramos;16;2;4;21/12/2021;Presencia;Entidad privada;N/A;N/A;0
+;;Calle 4 # 90 - 03;Meléndez;18;3;5;22/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Calle 23#122-309;Parcelaciones Pance;22;6;5;22/12/2021;Control de poblaciones;Comunidad;Apis mellifera scutellata;#N/D;0
+;;Cra 2 con calle 52;El Lido;19;5;6;19/12/2021;Operativo;Entes públicos;N/A;N/A;0
+;;Calle 3 oeste # 56 - 119;El Refugio;19;4;5;20/12/2021;Liberación;Entes públicos;Cerdocyon thous;MA;7
+;;Calle 80 # 4- 26;Nápoles;18;3;5;23/12/2021;Rescate;Entes públicos;EGRETTA THULA;AV;1
+;;calle 2A # 24C -63;San Fernando Viejo;19;4;1;24/12/2021;Presencia;Comunidad;Didelphis marsupialis;MA;0
+;;Avenida 4 oeste # 28- 76;Terron Colorado;1;2;6;24/12/2021;Presencia;Comunidad;Vespidae ( avispa SP);#N/D;0
+;;Av 4 Norte 15- 33;Versalles;2;5;1;23/12/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+;;Cra 56 # 3 007;Cuarto de Legua - Guadalupe;19;5;5;23/12/2021;Rescate;Entes públicos;Iguana iguana;RE;1
+;;Cra 26 c1;José Manuel Marroquín II;14;2;4;15/12/2021;Rescate;Entes públicos;Didelphis marsupialis;MA;1
+;;Cra 52 con calle 3;Sector Cañaveralejo Guadalupe;19;5;6;15/12/2021;Operativo;Entes públicos;N/A;N/A;0
+;;Calle 25 # 20-66;Belalcázar;9;3;6;14/12/2021;Rescate;Comunidad;Milvago chimachima;AV;1
+;;Calle 58 # 98-98;Lili - Bochalema - Ciudad Meléndez - Brisas del Limonar;17;4;5;15/12/2021;Rescate;Comunidad;Didelphis marsupialis;MA;1
